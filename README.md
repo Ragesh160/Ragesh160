@@ -4,11 +4,12 @@
 ​<div align="center">
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" alt="Tech Animation"/>
 </div>
-​👨‍💻 കുറിച്ച് (About Me)
+​👨‍💻  RAGESH C RAJAGOPAL
+
 ​I am a technology lover who places great importance on basic life values and family (Mother, Father, Sister). Ila on my technical journey from Saudi Arabia
 ​🔭 Focus Areas: Electronics, Power Electronics, Automation & Testing Tools.
 ​⚙️ Hardware & Embedded: Microprocessors, Processors, Electronic Components & Circuit Diagrams.
-​💻 Software & OS: Programming languages, Windows, Linux (പ്രത്യേകിച്ച് Kali Linux).
+​💻 Software & OS: Programming languages, Windows, Linux ( Kali Linux).
 ​🧠 Latest Interests: AI knowledge, Technology updates & Quality of Life improvements.
 ​🌱 Learning: Always eager to explore working principles of new embedded devices and systems.
 ​🛠️ Tech Stack & Tools (Skills)
